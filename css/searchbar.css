@@ -1,0 +1,19 @@
+*{
+margin: 0px;
+padding: 0px;
+font-family: sans-serif;
+}
+body{
+background: #3e5669;
+}
+.main{
+positon: absolute;
+transform: translate(-50%,-50%);
+}
+input{
+border:3px solid #34e17c;
+height:40 px;
+width:300px;
+border-radius:50 px;
+padding:0px 10px;
+}
